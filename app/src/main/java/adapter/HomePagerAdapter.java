@@ -16,6 +16,7 @@ public class HomePagerAdapter extends FragmentPagerAdapter {
     private List<String> titles = new ArrayList<>();
 
 
+
     public HomePagerAdapter(FragmentManager fm) {
         super(fm);
     }
