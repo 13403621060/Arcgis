@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="索引信息"
+        android:id="@+id/zy_syxx"/>
+    <item android:title="基本信息"
+        android:id="@+id/zy_jbxx"/>
+    <item android:title="引用文件" />
+    <item android:title="准备工作安排" />
+    <item android:title="人员分工" />
+    <item android:title="人员要求" />
+    <item android:title="工器具" />
+    <item android:title="安全措施" />
+    <item android:title="风险分析及防范措施" />
+    <item android:title="存在问题" />
+
+</menu>

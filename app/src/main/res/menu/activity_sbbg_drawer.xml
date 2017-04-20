@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="消弧装置"
+        android:id="@+id/sbbg_xhzz"/>
+    <item android:title="接地网"
+        android:id="@+id/sbbg_jdw"/>
+    <item android:title="所用变" />
+    <item android:title="主变压器" />
+    <item android:title="隔离开关" />
+    <item android:title="熔断器" />
+    <item android:title="母线" />
+    <item android:title="电抗器" />
+    <item android:title="电流互感器" />
+    <item android:title="电压互感器" />
+    <item android:title="电力电容器" />
+    <item android:title="避雷器" />
+    <item android:title="断路器" />
+    <item android:title="开关柜" />
+    <item android:title="放电线圈" />
+    <item android:title="避雷针" />
+    <item android:title="穿墙套管" />
+    <item android:title="站内电缆" />
+
+</menu>

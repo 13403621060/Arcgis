@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00A29F</color>
+    <color name="colorPrimaryDark">#00A29F</color>
+    <color name="colorAccent">#00A29F</color>
+
+    <color name="white">#ffffff</color>
+    <color name="gray">#cccccc</color>
+
+    <color name="drop_down_selected">#7B1FA2</color>
+    <color name="drop_down_unselected">#111111</color>
+    <color name="bg">#00A29F</color>
+    <color name="firstColor">#00BCD4</color>
+    <color name="border_color">#CCCCCC</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>

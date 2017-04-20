@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xunshijihua_titles">
+        <item>待接受</item>
+        <item>进行中</item>
+        <item>已完成</item>
+    </string-array>
+</resources>

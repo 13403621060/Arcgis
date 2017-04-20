@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_jihuaxunshi"
+        android:icon="@drawable/ic_main"
+        android:title="计划巡视"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_copy"
+        android:icon="@drawable/ic_main"
+        android:title="计划检测"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_google"
+        android:icon="@drawable/ic_main"
+        android:title="计划检修"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_facebook"
+        android:icon="@drawable/ic_main"
+        android:title="巡视单元"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_twitter"
+        android:icon="@drawable/ic_main"
+        android:title="零时巡检"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_twitterx"
+        android:icon="@drawable/ic_main"
+        android:title="零时检测"
+        app:showAsAction="ifRoom" />
+</menu>
